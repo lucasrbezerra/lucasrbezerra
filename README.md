@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Sou Lucas Bezerra.</h1>
+<h1 align="left">Olá! Sou Lucas Bezerra (:</h1>
 
 ###
 <div align="center">
